@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nombre": "Teclado mecánico", "precio": 45000, "stock": 12, "imagen": "https://via.placeholder.com/150" },
+  { "id": 2, "nombre": "Mouse inalámbrico", "precio": 22000, "stock": 30, "imagen": "https://via.placeholder.com/150" },
+  { "id": 3, "nombre": "Monitor 24''", "precio": 180000, "stock": 5, "imagen": "https://via.placeholder.com/150" },
+  { "id": 4, "nombre": "Auriculares Gamer", "precio": 35000, "stock": 8, "imagen": "https://via.placeholder.com/150" }
+]
